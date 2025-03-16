@@ -1,1 +1,10 @@
+Apocrypha;2025-03-20;18:00;120;1;Oleg Fedorchuk,Marina Koval,Ihor Savchenko;100;Classical performance based on Lesya Ukrainka's works
+The Grateful Herod;2025-03-22;18:00;90;0;Anna Petrova,Dmytro Ivanov,Oksana Lisova;80;Philosophical dialogue by Hryhorii Skovoroda
+Vertep: Christmas Dream;2025-03-25;18:00;110;1;Vasyl Shevchenko,Iryna Dziuba,Petro Horobets;120;Christmas performance
+The Price of Light;2025-03-28;18:00;90;1;Andriy Ostapchuk,Olena Melnyk,Serhiy Bondar;150;A performance based on the poetry of Amanda Gorman
+The Beauty Queen;2025-04-02;18:00;120;0;Natalia Danylova,Oleksandr Kovtun,Mykola Radchenko;130;A play by Martin McDonagh
+The Mind Trap;2025-04-04;18:00;100;0;Viktor Hrytsenko,Tetiana Poliakova,Bohdan Stasiuk;110;A performance based on Anthony Horowitz's works
+Siddhartha;2025-04-10;18:00;210;1;Ihor Dmytruk,Kateryna Levchenko,Andrii Ponomarenko;160;A journey to self-discovery based on Hermann Hesse's novel
+Molière: Anatomy;2025-04-11;18:00;95;0;Volodymyr Chernov,Olha Yaremchuk,Danylo Hrekov;140;A performance based on the works of Molière and Nina Zakhozhenko
+Formulas of Ecstasy;2025-04-12;18:00;85;1;Ruslan Khomenko,Yuliia Hordiienko,Stepan Lavrov;100;A composition based on the poetry of Bohdan-Ihor Antonych
 
